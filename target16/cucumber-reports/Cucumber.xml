@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.796">
+    <testcase classname="Automate Amazon Shopping" name="Buy the Product from Amazon website" time="0.331">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given User enter the Amazon website url.....................................undefined
+When User landed to Amazon website..........................................skipped
+Then User able to choose the product........................................skipped
+Then User able to add the product to the cart...............................skipped
+Then User able to reject the coverage selection.............................skipped
+Then User able to view the cart confirmation................................skipped
+Then User able to close the Amazon website..................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
